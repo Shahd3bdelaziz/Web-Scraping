@@ -9,7 +9,6 @@ Welcome to the Web Scraping Repository! This project provides tools and scripts 
 - **Pagination Handling:** Navigate through multiple pages of content.
 - **Data Storage:** Save scraped data in CSV, JSON, or database formats.
 - **Error Handling:** Robust mechanisms to deal with issues like rate limiting and missing data.
-- **Proxy Support:** Use proxies to avoid IP blocking and ensure smooth operations.
 - **Data Validation:** Ensure the integrity and quality of extracted data.
 
 ## Getting Started
